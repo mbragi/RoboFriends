@@ -1,0 +1,12 @@
+@font-face {
+  font-family: "Baby Halloween ";
+  font-style: normal;
+  font-weight: normal;
+  src: local("Baby Halloween"), url("Baby Halloween.ttf"), format("ttf");
+}
+
+h1 {
+  font-family: "Baby Halloween";
+  font-weight: 200;
+  /* color: #0ccac4; */
+}
